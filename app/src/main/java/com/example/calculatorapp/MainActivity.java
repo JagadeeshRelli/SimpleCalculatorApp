@@ -178,7 +178,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-/
+
         clear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
